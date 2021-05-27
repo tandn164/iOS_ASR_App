@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>filterName</key>
+		<string>Original</string>
+		<key>imageName</key>
+		<string>original</string>
+	</dict>
+	<dict>
+		<key>filterName</key>
+		<string>Beauty</string>
+		<key>imageName</key>
+		<string>beauty</string>
+	</dict>
+	<dict>
+		<key>filterName</key>
+		<string>Brooklyn</string>
+		<key>imageName</key>
+		<string>brooklyn</string>
+	</dict>
+	<dict>
+		<key>filterName</key>
+		<string>Pixar</string>
+		<key>imageName</key>
+		<string>pixar</string>
+	</dict>
+	<dict>
+		<key>filterName</key>
+		<string>Rise</string>
+		<key>imageName</key>
+		<string>rise</string>
+	</dict>
+	<dict>
+		<key>filterName</key>
+		<string>Sierra</string>
+		<key>imageName</key>
+		<string>sierra</string>
+	</dict>
+	<dict>
+		<key>filterName</key>
+		<string>Amaro</string>
+		<key>imageName</key>
+		<string>amaro</string>
+	</dict>
+	<dict>
+		<key>filterName</key>
+		<string>Brannan</string>
+		<key>imageName</key>
+		<string>brannan</string>
+	</dict>
+	<dict>
+		<key>filterName</key>
+		<string>Early bird</string>
+		<key>imageName</key>
+		<string>earlybird</string>
+	</dict>
+	<dict>
+		<key>filterName</key>
+		<string>Freud</string>
+		<key>imageName</key>
+		<string>freud</string>
+	</dict>
+</array>
+</plist>

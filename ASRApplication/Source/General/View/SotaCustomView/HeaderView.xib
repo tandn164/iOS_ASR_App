@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="FiraSans-Bold.ttf">
+            <string>FiraSans-Bold</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="HeaderView" customModule="WebNomination" customModuleProvider="target">
+            <connections>
+                <outlet property="contentView" destination="i5M-Pr-FkT" id="V4B-8R-3Ep"/>
+                <outlet property="onBackHeaderClicked" destination="U0V-6B-BAf" id="eFm-vw-Kr6"/>
+                <outlet property="rightBarBotton" destination="E5y-04-z0r" id="8gL-W2-c0d"/>
+                <outlet property="textTitleHeader" destination="O1x-C8-qhf" id="RH5-r4-XUa"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="64"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="lTQ-Ni-hZc">
+                    <rect key="frame" x="0.0" y="0.0" width="414" height="64"/>
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="U0V-6B-BAf">
+                            <rect key="frame" x="0.0" y="0.0" width="83" height="64"/>
+                            <state key="normal" title="Button" image="back"/>
+                            <connections>
+                                <action selector="onBackHeaderClicked:" destination="-1" eventType="touchUpInside" id="Kfg-fY-7cM"/>
+                            </connections>
+                        </button>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="O1x-C8-qhf" customClass="LocalizableLabel" customModule="WebNomination" customModuleProvider="target">
+                            <rect key="frame" x="83" y="0.0" width="248" height="64"/>
+                            <fontDescription key="fontDescription" name="FiraSans-Bold" family="Fira Sans" pointSize="17"/>
+                            <color key="textColor" red="0.28235294117647058" green="0.28235294117647058" blue="0.28235294117647058" alpha="1" colorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="E5y-04-z0r">
+                            <rect key="frame" x="352" y="0.0" width="62" height="64"/>
+                            <state key="normal" image="icSave"/>
+                            <connections>
+                                <action selector="onClicked:" destination="-1" eventType="touchUpInside" id="Zqh-jA-O0N"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" red="0.98431372549019602" green="0.98431372549019602" blue="0.98431372549019602" alpha="1" colorSpace="calibratedRGB"/>
+                    <constraints>
+                        <constraint firstItem="O1x-C8-qhf" firstAttribute="centerX" secondItem="lTQ-Ni-hZc" secondAttribute="centerX" id="H0E-Oz-zvq"/>
+                        <constraint firstItem="O1x-C8-qhf" firstAttribute="width" secondItem="lTQ-Ni-hZc" secondAttribute="width" multiplier="0.6" id="Idv-2f-aGJ"/>
+                        <constraint firstItem="E5y-04-z0r" firstAttribute="centerY" secondItem="lTQ-Ni-hZc" secondAttribute="centerY" id="Lg8-FS-9cw"/>
+                        <constraint firstAttribute="bottom" secondItem="O1x-C8-qhf" secondAttribute="bottom" id="QNp-AK-c44"/>
+                        <constraint firstItem="E5y-04-z0r" firstAttribute="top" secondItem="lTQ-Ni-hZc" secondAttribute="top" id="baK-tu-Van"/>
+                        <constraint firstItem="O1x-C8-qhf" firstAttribute="centerY" secondItem="lTQ-Ni-hZc" secondAttribute="centerY" id="hNV-MC-SbB"/>
+                        <constraint firstItem="U0V-6B-BAf" firstAttribute="width" secondItem="lTQ-Ni-hZc" secondAttribute="width" multiplier="0.2" id="hPZ-De-FJc"/>
+                        <constraint firstAttribute="bottom" secondItem="E5y-04-z0r" secondAttribute="bottom" id="hmF-OP-fc3"/>
+                        <constraint firstItem="U0V-6B-BAf" firstAttribute="centerY" secondItem="lTQ-Ni-hZc" secondAttribute="centerY" id="jeT-hf-ohH"/>
+                        <constraint firstItem="O1x-C8-qhf" firstAttribute="top" secondItem="lTQ-Ni-hZc" secondAttribute="top" id="og3-Of-sd9"/>
+                        <constraint firstItem="E5y-04-z0r" firstAttribute="width" secondItem="lTQ-Ni-hZc" secondAttribute="width" multiplier="0.15" id="t2F-el-a4q"/>
+                        <constraint firstAttribute="trailing" secondItem="E5y-04-z0r" secondAttribute="trailing" id="vmS-bT-EW0"/>
+                        <constraint firstItem="U0V-6B-BAf" firstAttribute="height" secondItem="lTQ-Ni-hZc" secondAttribute="height" id="xaL-wd-QMQ"/>
+                        <constraint firstItem="U0V-6B-BAf" firstAttribute="leading" secondItem="lTQ-Ni-hZc" secondAttribute="leading" id="z7z-xZ-0qa"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="lTQ-Ni-hZc" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="Ekg-OH-XOL"/>
+                <constraint firstAttribute="trailing" secondItem="lTQ-Ni-hZc" secondAttribute="trailing" id="Mq0-vU-5XR"/>
+                <constraint firstItem="lTQ-Ni-hZc" firstAttribute="centerY" secondItem="i5M-Pr-FkT" secondAttribute="centerY" id="Sgw-yC-z1U"/>
+                <constraint firstItem="lTQ-Ni-hZc" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" id="dqA-84-wco"/>
+                <constraint firstItem="lTQ-Ni-hZc" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="he4-vJ-vxX"/>
+                <constraint firstAttribute="bottom" secondItem="lTQ-Ni-hZc" secondAttribute="bottom" id="sn1-5K-NY5"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="-197" y="115"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="back" width="50" height="44"/>
+        <image name="icSave" width="24" height="24"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

@@ -1,0 +1,57 @@
+
+/* Class = "UILabel"; text = "0"; ObjectID = "4NM-Pd-vKv"; */
+"4NM-Pd-vKv.text" = "0";
+
+/* Class = "UILabel"; text = "配信を終了しますか？"; ObjectID = "BzH-78-dmw"; */
+"BzH-78-dmw.text" = "配信を終了しますか？";
+
+/* Class = "UILabel"; text = "/"; ObjectID = "Igx-Vw-gnX"; */
+"Igx-Vw-gnX.text" = "/";
+
+/* Class = "UILabel"; text = "配信中"; ObjectID = "Ji2-bg-2SE"; */
+"Ji2-bg-2SE.text" = "配信中";
+
+/* Class = "UIButton"; normalTitle = "パスワードを忘れた場合"; ObjectID = "Lej-mQ-RFC"; */
+"Lej-mQ-RFC.normalTitle" = "パスワードを忘れた場合";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Ljw-oZ-3yz"; */
+"Ljw-oZ-3yz.text" = "0";
+
+/* Class = "UILabel"; text = "ライブ終了"; ObjectID = "PD8-5e-Dxt"; */
+"PD8-5e-Dxt.text" = "ライブ終了";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "S1b-sz-ifJ"; */
+"S1b-sz-ifJ.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "確認"; ObjectID = "WqR-zr-09N"; */
+"WqR-zr-09N.normalTitle" = "確認";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Y4j-qO-MXg"; */
+"Y4j-qO-MXg.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "キャンセル"; ObjectID = "YGK-Jk-ysO"; */
+"YGK-Jk-ysO.normalTitle" = "キャンセル";
+
+/* Class = "UILabel"; text = "フィルター"; ObjectID = "ZKJ-Su-ly5"; */
+"ZKJ-Su-ly5.text" = "フィルター";
+
+/* Class = "UILabel"; text = "ストリーミングの最高プラットホーム"; ObjectID = "Zi6-c9-i9m"; */
+"Zi6-c9-i9m.text" = "ストリーミングの最高プラットホーム";
+
+/* Class = "UILabel"; text = "Server is under maintenance"; ObjectID = "aTf-AW-TfX"; */
+"aTf-AW-TfX.text" = "Server is under maintenance";
+
+/* Class = "UILabel"; text = "フォロワー"; ObjectID = "fgc-Az-ZR4"; */
+"fgc-Az-ZR4.text" = "フォロワー";
+
+/* Class = "UILabel"; text = "--:--"; ObjectID = "h0F-K4-tw3"; */
+"h0F-K4-tw3.text" = "--:--";
+
+/* Class = "UILabel"; text = "視聴回数"; ObjectID = "qBh-Wt-Gee"; */
+"qBh-Wt-Gee.text" = "視聴回数";
+
+/* Class = "UIButton"; normalTitle = "ログイン"; ObjectID = "yuL-0G-2Ao"; */
+"yuL-0G-2Ao.normalTitle" = "ログイン";
+
+/* Class = "UILabel"; text = "--:--"; ObjectID = "zs6-bU-Rk1"; */
+"zs6-bU-Rk1.text" = "--:--";

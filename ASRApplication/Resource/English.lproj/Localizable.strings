@@ -1,0 +1,299 @@
+"app_name" = "YJS";
+"hash_tag" = "Your japanese sweeties";
+"donate_to_campaign" = "Donate %d%%";
+"donate_to" = "%d%% DONATE TO";
+"donate_amount_raised" = "%@ RAISED";
+"trophies" = "trophies";
+"tokens" = "tokens";
+"rubies" = "rubies";
+"leaderboard" = "Leaderboard";
+"fan_leaderboard" = "Fan Leaderboard";
+"followings" = "Followings";
+"subscriptions" = "Subscriptions";
+"settings" = "Settings";
+"log_out" = "Log out";
+"new" = "new";
+"changes" = "changes";
+"Level" = "Level";
+"Trophies" = "Trophies";
+"Tokens" = "Tokens";
+"Rubies" = "Rubies";
+"Followings" = "Followings";
+"Your Fans" = "Your Fans";
+"Your Premium Fans" = "Your Premium Fans";
+"Fans" = "Fans";
+"Premium Fans" = "💎 Fans";
+"%@'s Premium Fans" = "%@'s Premium Fans";
+"%@'s Fans" = "%@'s Fans";
+"Donated" = "Donated";
+"My Profile" = "My Profile";
+"LEVEL" = "LEVEL";
+"View Profile" = "View Profile";
+"Unban" = "Unblock";
+"Ban Forever" = "Block Forever";
+"Unmute" = "Unmute";
+"Mute Forever" = "Mute Forever";
+"Mute" = "Mute";
+"Ban" = "Block";
+"Sure to mute?" = "Sure to mute?";
+"Sure" = "Sure";
+"_ day" = "%d day";
+"_ days" = "%d days";
+"forever" = "forever";
+"_ day ago" = "%d day ago";
+"_ days ago" = "%d days ago";
+"_ hour ago" = "%d hour ago";
+"_ hours ago" = "%d hours ago";
+"_ min ago" = "%d min ago";
+"_ mins ago" = "%d mins ago";
+
+"Leaderboard"="Leaderboard";
+"Viewers,Donation,New fans"="Viewers,Donation,New fans";
+"Fan Leaderboard"="Fan Leaderboard";
+"Gift,Loyalty,Shares"="Gift,Loyalty,Shares";
+"Last 24 hours" = "Last 24 hours";
+"Last 7 days" = "Last 7 days";
+"Last 30 days" = "Last 30 days";
+"Last 24H" = "Last 24H";
+"Last 7D" = "Last 7D";
+"Last 30D" = "Last 30D";
+
+"Unfollow" = "Unfollow";
+"Unsubscribe" = "Unsubscribe";
+"Subscribe" = "Subscribe";
+"Follow" = "Follow";
+"Subscribed" = "Subscribed";
+"Followed" = "Followed";
+"Unfollow %@?" = "Unfollow %@?";
+"Unsubscribe %@?" = "Unsubscribe %@?";
+"Subscribe to join Premium Live?" = "Subscribe to join Premium Live?";
+"Subscribe to view Premium Content?" = "Subscribe to view Premium Content?";
+"_confirm_unfollow" = "Do you really want unfollow this profile?";
+"_confirm_unsubscribe" = "Do you really want unsubscribe this profile?";
+"_confirm_subscribe" = "The premium content will available for %@ subscribers only.";
+"Sure to ban?" = "Sure to block?";
+"Sure to unfollow?" = "Sure to unfollow?";
+"Sure to mute?" = "Sure to mute?";
+
+"Search in your premium fans" = "Search in your premium fans";
+"Search in your fans" = "Search in your fans";
+"Search in _'s fans" = "Search in %@'s fans";
+"Search in _'s Following" = "Search in %@'s Following";
+
+"%d message requests" = "%d message requests";
+"Click a message request to reply" = "Click a message request to reply";
+"Enter your reply message" = "Enter your reply message";
+
+"_ DONATED" = "%@ DONATED";
+"Enter your live name…" = "Enter Title";
+"Combo x%d" = "Combo x%d";
+"%@ and @d others" = "%@ and @d others";
+
+"Level _" = "Level %d";
+"_exp" = "%dexp";
+"_exp to Level _" = "%dexp to Level %d";
+
+"Level.Up.Message" = "You just reach level %d.";
+
+"Connected Accounts" = "Connected Accounts";
+"Receive Notifications" = "Receive Notifications";
+"People can see my Premium Fans" = "People can see my Premium Fans";
+"Muted Users" = "Muted Users";
+"Banned Users" = "Blocked Users";
+"About Exclusiv" = "About Exclusiv";
+"Feedback" = "Feedback";
+"Terms and Conditions" = "Terms and Conditions";
+"Partner Program Terms" = "Partner Program Terms";
+"Security" = "Security";
+
+"network_error" = "Network is disconnected";
+"live_chat_policy" = "Be polite and respectful. Any smoking, vulgar, pornography and nudity display behaviors are prohibited in Exclusiv. If conducted, account will be banned. Moderators will keep inspecting 24 hours.
+";
+
+"renew _" = "renew %@";
+
+"Are you sure you want to permanently delete this media?" = "Are you sure you want to permanently delete this media?";
+"You can't undo this action" = "You can't undo this action";
+"This photo has been deleted." = "This photo has been deleted.";
+"This video has been deleted." = "This video has been deleted.";
+"You has been banned." = "You has been banned.";
+"You has been muted." = "You has been muted.";
+"Connect Facebook Friends" = "Connect Facebook Friends";
+"Connect Twitter Friends" = "Connect Twitter Friends";
+"Connect Google Plus Friends" = "Connect Google Plus Friends";
+"Connect via Facebook" = "Connect via Facebook";
+"Connect via Twitter" = "Connect via Twitter";
+"Connect via Google Plus" = "Connect via Google Plus";
+
+"Report %@" = "Report %@";
+
+"Pay _" = "Pay %@";
+"+_ bonus" = "+%d bonus";
+"You need more _ tokens" = "You need more %d tokens";
+"logout_confirmation" = "ログアウトしてもよろしいですか？";
+"Not enough tokens, please recharge to get more" = "Not enough tokens, please recharge to get more";
+"socket_connecting" = "Connecting…";
+"connecting" = "接続中…";
+"Quit Broadcast?" = "Quit Broadcast?";
+"share_my_media_message" = "✨✔ Come on, join my exclusiv moment on #YJS %@ %@";
+"share_other_media_message" = "Come join %@’s exclusive moment on %@";
+"Unable to upload image." = "Unable to upload image.";
+"Unable to play media." = "Unable to play media.";
+
+"_ to _ years old" = "%d to %d years old";
+"_ donated to" = "%d donated to";
+"_ RAISED" = "%@ RAISED";
+
+"Failed to login via Facebook." = "Failed to login via Facebook.";
+"Failed to login via Twitter." = "Failed to login via Twitter.";
+"Failed to login via Google." = "Failed to login via Google.";
+"Failed to connect." = "Failed to connect.";
+
+"+%d bonus" = "+%d bonus";
+"unbanned_viewer" = "You have been unmuted by the streamer";
+
+"setting" = "Setting";
+"not_have_photo_authorization" = "Can not access to your photo\nPlease go to Setting - Fammi-Photo to set ON\nAllow to use photo to upload image?";
+"not_have_camera_authorization" = "Can not access to your camera\nPlease go to Setting -Fammi-Camera to set ON\nAllow to use camera to upload image?";
+"not_have_microphone_authorization" = "Can not access to your record audio\nPlease go to Setting - Fammi-Audio to set ON\nAllow to use record audio to Live stream?";
+"Privacy Policy" = "Privacy Policy";
+"Terms of Service" = "Terms of Service";
+"subscription_info" = "– Subscription name: %@
+- Subscription price is $9.99 for 1 month
+
+- During subscription period, you can view all the premium streams, images and videos of %@ exclusively without being censored by a blurry mask
+
+– Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period
+
+– Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal
+
+– Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
+";
+"Subscription Notice" = "Subscription Notice";
+"Privacy Policy" = "Privacy Policy";
+"Terms of Service" = "Terms of Service";
+"premium_require_level" = "Only level 5+ users can start a premium stream";
+"%@ sent %@" = "%@ sent %@";
+"error_unknow" = "サーバーにエラーが発生しました。後でやり直してください。";
+"required_email" = "メールは必要です";
+"error_invalid_email" = "メールフォーマットは無効です";
+"required_password" = "パスワードは必要です";
+"error_invalid_login" = "メールまたはパスワードが間違っています。";
+"error_login_not_permitted" = "システムにアクセスできません。店舗管理者にお問い合わせください。";
+"error" = "エラー";
+"error_live_not_allowed" = "この機能の利用が許可されていません。";
+"forgot_password" = "パスワードをお忘れですか";
+"error_image_invalid_format" = "画像はPNG、JPG、JPEG、HEICいずれかファイルのみです。";
+"error_image_invalid_size" = "5MB以下の画像を選択してください";
+"stream_title" = "Enter your live name...";
+"confirm" = "確認";
+
+//auth
+"login_with_email" = "Log in with your email";
+"email" = "Email";
+"password" = "Password";
+"btn_login" = "Login";
+//home
+"tabbar_notification_title" = "Notification";
+"tabbar_account_title" = "My Account";
+"start" = "Start";
+
+//message
+"MSG_01" = "Created successful.";
+"MSG_02" = "Updated successful.";
+"MSG_03" = "The %@ is required.";
+"MSG_04" = "The %@ must be a valid email.";
+"MSG_05" = "The %@ is registered.";
+"MSG_06" = "The %@ must be at least 6 characters.";
+"MSG_07" = "The %@ is invalid.";
+"MSG_08" = "%@ must be at least 8 characters including all uppercase letters, lowercase letters, numbers and symbols (! # <> &@%+$*._-). ";
+"MSG_09" = "The email or password is incorrect.";
+"MSG_10" = "The %@ should not contain white space";
+"MSG_11" = "Current password is incorrect";
+"MSG_12" = "Please input re-enter password match the password.";
+"MSG_13" = "The new password must not match current password.";
+"MSG_14" = "Please enter over 100cm.";
+"MSG_15" = "Please enter less than 300cm.";
+"MSG_16" = "The image must be at less than 5MB.";
+"MSG_17" = "The image must be in the format png, jpg, jpeg, heic (ios).";
+"MSG_18" = "The %@ may only contain numeric characters.";
+"MSG_19" = "The %@ has already been existed.";
+"MSG_20" = "Start Time must be greater than current";
+"MSG_21" = "Start time and End time is invalid.";
+"MSG_22" = "Server error. Please try again!";
+"MSG_23" = "Unauthorized";
+"MSG_24" = "The livestream is fulling";
+"MSG_25" = "You can not join group livestream of %@ because it is fulling";
+"MSG_26" = "This livestream has ended";
+"MSG_27" = "You can only withdraw up to X points.";
+"MSG_28" = "You can only withdraw a minimum of X points.";
+"MSG_29" = "You have not updated withdraw bank information. Please update in Store Account.";
+"MSG_30" = "You are not allowed to access to system. Please contact Store Admin to continue the service. Store Admin Email: %@";
+"MSG_31" = "Your store is inactive. Please contact Support Team to re-activate your account. Support Team Email: %@";
+"MSG_32" = "You are not allowed to access to system. Please contact Channel Admin to continue the service. Channel Admin Email: %@";
+"MSG_33" = "You are not allowed to use this function";
+"MSG_34" = "The %@ must be in the format gif.";
+"MSG_35" = "Please input number greater than 0";
+
+"title_password_reset" = "Passsword Reset";
+"title1_password_reset" = "Input mail address for reset password";
+"btn_back" = "Back";
+"btn_next" = "Next";
+"title_confirm_password" = "Please check email and input verification code";
+"input_email" = "Your email adrress";
+"input_verification" = "Verification code";
+"input_new_password" = "New password";
+"input_current_password" = "Current password";
+"input_confirm_new_password" = "Confirm new password";
+"title_success_reset_password" = "Password successful resetted";
+"btn_resend_code"= "Resend code";
+"btn_back_login"= "Back Login";
+"btn_forgot_password"= "Forgot password?";
+"change_password_success"="Change password success";
+"current_password"= "Current password";
+
+"titleNetworkError" = "Mobile data communication is OFF.";
+"messageNetworkError" = "Please connect Wifi to set mobile data communication ON and you can access data.";
+"btn_resend_code" = "Resend Code";
+
+
+//account
+"followers" = "followers";
+"lives" = "lives";
+"views" = "views";
+"my_profile" = "My profile";
+"livestream_schedule" = "Livestream Schedule";
+"history" = "History";
+"setting" = "Setting";
+"about_us" = "About Us";
+"term_of_service" = "Term of service";
+"privacy" = "Privacy";
+"help_and_support" = "Help and Support";
+"logout" = "Logout";
+"_id" = "ID: %ld";
+
+//live
+"title_livestream" = "Title livestream";
+"caption" = "caption";
+"_tags" = "(%d/%d) Tags";
+"_viewers" = "%@ Viewers";
+"_followers" = "%@ Followers";
+"_points" = "%@ Points";
+"_group_type" = "%d Typed";
+"_user_join_stream" = "%d Joined Livestream person";
+"change_password" = "Change password";
+"language" = "Language";
+"english" = "English";
+"japanese" = "japanese";
+"cancel" = "Cancel";
+
+"change_name" = "Change Name";
+"actor_name" = "Actor Name";
+"gender" = "Gender";
+"birthdate" = "Birthdate";
+"height" = "Height (cm)";
+"blood_type" = "Blood type";
+"description" = "Description";
+"public" = "Public";
+
+"code" = "Verification code";

@@ -1,0 +1,119 @@
+PODS:
+  - Alamofire (5.0.0-rc.2)
+  - AlamofireObjectMapper (6.2.0):
+    - Alamofire (= 5.0.0-rc.2)
+    - ObjectMapper (~> 3.5.1)
+  - BEMCheckBox (1.4.1)
+  - CocoaLumberjack (3.7.0):
+    - CocoaLumberjack/Core (= 3.7.0)
+  - CocoaLumberjack/Core (3.7.0)
+  - iCarousel (1.8.3)
+  - IQKeyboardManagerSwift (6.5.0)
+  - ObjectMapper (3.5.3)
+  - OpenSSL-Universal (1.0.2.20):
+    - OpenSSL-Universal/Static (= 1.0.2.20)
+  - OpenSSL-Universal/Static (1.0.2.20)
+  - PullToRefresher (3.3)
+  - ReachabilitySwift (4.3.1)
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.1)
+  - SDWebImage (5.6.0):
+    - SDWebImage/Core (= 5.6.0)
+  - SDWebImage/Core (5.6.0)
+  - SDWebImageSVGKitPlugin (1.2.0):
+    - SDWebImage/Core (~> 5.6)
+    - SVGKit (>= 2.1)
+  - SnapKit (5.0.0)
+  - Socket.IO-Client-Swift (15.1.0):
+    - Starscream (~> 3.1)
+  - SQLite.swift (0.11.5):
+    - SQLite.swift/standard (= 0.11.5)
+  - SQLite.swift/standard (0.11.5)
+  - Starscream (3.1.1)
+  - SVGKit (2.1.1):
+    - CocoaLumberjack (~> 3.0)
+  - SwiftHTTP (2.1.0)
+  - SwiftyJSON (3.1.4)
+  - Vivid (0.9)
+  - YUCIHighPassSkinSmoothing (1.4):
+    - Vivid
+
+DEPENDENCIES:
+  - AlamofireObjectMapper
+  - BEMCheckBox
+  - iCarousel
+  - IQKeyboardManagerSwift (= 6.5.0)
+  - OpenSSL-Universal (~> 1.0)
+  - PullToRefresher (~> 3.1)
+  - ReachabilitySwift (= 4.3.1)
+  - RxCocoa (~> 5.1.1)
+  - RxSwift (~> 5.1.1)
+  - SDWebImage (= 5.6.0)
+  - SDWebImageSVGKitPlugin (= 1.2.0)
+  - SnapKit (= 5.0.0)
+  - Socket.IO-Client-Swift (~> 15.1.0)
+  - SQLite.swift (= 0.11.5)
+  - SwiftHTTP (= 2.1.0)
+  - SwiftyJSON
+  - YUCIHighPassSkinSmoothing
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireObjectMapper
+    - BEMCheckBox
+    - CocoaLumberjack
+    - iCarousel
+    - IQKeyboardManagerSwift
+    - ObjectMapper
+    - OpenSSL-Universal
+    - PullToRefresher
+    - ReachabilitySwift
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SDWebImage
+    - SDWebImageSVGKitPlugin
+    - SnapKit
+    - Socket.IO-Client-Swift
+    - SQLite.swift
+    - Starscream
+    - SVGKit
+    - SwiftHTTP
+    - SwiftyJSON
+    - Vivid
+    - YUCIHighPassSkinSmoothing
+
+SPEC CHECKSUMS:
+  Alamofire: f9450d3c7f6bea2ad62e7a541c3e9b186c7991d6
+  AlamofireObjectMapper: 74d1440c92c42bbcc2b5f4dc81654ac095ec669f
+  BEMCheckBox: 5ba6e37ade3d3657b36caecc35c8b75c6c2b1a4e
+  CocoaLumberjack: e8955b9d337ac307103b0a34fd141c32f27e53c5
+  iCarousel: d782f635afac190c49bb8ee455882284cff8b85f
+  IQKeyboardManagerSwift: 6cd19976c6e871907c4ed9127c2d3affdd4defc2
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+  OpenSSL-Universal: ff34003318d5e1163e9529b08470708e389ffcdd
+  PullToRefresher: 6fc2ab6494caf949bcf6f0223ffd23f9d21a06f6
+  ReachabilitySwift: 4032e2f59586e11e3b0ebe15b167abdd587a388b
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  SDWebImage: 21b19f56b4226cdfe3aefe4e6848dc43ed129a86
+  SDWebImageSVGKitPlugin: 06a811c05b9e839982baeb5251d15fe7a79abb82
+  SnapKit: fd22d10eb9aff484d79a8724eab922c1ddf89bcf
+  Socket.IO-Client-Swift: 7cb44c0ffb86e158cee32d0642d30ec5fdcf8f61
+  SQLite.swift: 6e5356850bb1791459f8c16d6ee9195b28714a2e
+  Starscream: 4bb2f9942274833f7b4d296a55504dcfc7edb7b0
+  SVGKit: 652cdf7bef8bec8564d04a8511d3ab50c7595fac
+  SwiftHTTP: 274370b538031425eb9d8ffce5f6adda87c73f76
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+  Vivid: 0fde7409beac71224deb151dd78f98a5bb860497
+  YUCIHighPassSkinSmoothing: 8418fd1bf605ec22b647c57745b863b352f72097
+
+PODFILE CHECKSUM: 8b177db82b8bca013e90e1d580261cf11a192dba
+
+COCOAPODS: 1.10.1

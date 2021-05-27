@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Section 1</string>
+			<key>items</key>
+			<array>
+				<dict>
+					<key>icon</key>
+					<string>account_user</string>
+					<key>title</key>
+					<string>lbl_my_profile</string>
+				</dict>
+				<dict>
+					<key>icon</key>
+					<string>account_calendar</string>
+					<key>title</key>
+					<string>lbl_livestream_schedule</string>
+				</dict>
+				<dict>
+					<key>icon</key>
+					<string>account_history</string>
+					<key>title</key>
+					<string>lbl_history</string>
+				</dict>
+				<dict>
+					<key>icon</key>
+					<string>account_settings</string>
+					<key>title</key>
+					<string>lbl_setting</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Section 2</string>
+			<key>items</key>
+			<array>
+				<dict>
+					<key>icon</key>
+					<string>account_about_us</string>
+					<key>title</key>
+					<string>lbl_about_us</string>
+				</dict>
+				<dict>
+					<key>icon</key>
+					<string>account_world</string>
+					<key>title</key>
+					<string>lbl_term_of_service</string>
+				</dict>
+				<dict>
+					<key>icon</key>
+					<string>account_privacy</string>
+					<key>title</key>
+					<string>lbl_privacy</string>
+				</dict>
+				<dict>
+					<key>icon</key>
+					<string>account_support</string>
+					<key>title</key>
+					<string>lbl_help_and_support</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Miền Nam</string>
+			<key>items</key>
+			<array>
+				<dict>
+					<key>icon</key>
+					<string>account_logout</string>
+					<key>title</key>
+					<string>lbl_logout</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
